@@ -10,7 +10,7 @@ namespace ganohesaplayıcı
     {
         static void Main(string[] args)
         {
-            // -- GANO HESAPLAYICI --
+            // -- GANO HESAPLAYICI !!!--
             
             Console.Write("Ders sayisini girin: ");
             int derssayisi = Convert.ToInt32(Console.ReadLine());
