@@ -1,0 +1,8 @@
+C:\Users\Muharrem\source\repos\yaptıklarım\ganohesaplayıcı\ganohesaplayıcı\bin\Debug\ganohesaplayıcı.exe.config
+C:\Users\Muharrem\source\repos\yaptıklarım\ganohesaplayıcı\ganohesaplayıcı\bin\Debug\ganohesaplayıcı.exe
+C:\Users\Muharrem\source\repos\yaptıklarım\ganohesaplayıcı\ganohesaplayıcı\bin\Debug\ganohesaplayıcı.pdb
+C:\Users\Muharrem\source\repos\yaptıklarım\ganohesaplayıcı\ganohesaplayıcı\obj\Debug\ganohesaplayıcı.csproj.AssemblyReference.cache
+C:\Users\Muharrem\source\repos\yaptıklarım\ganohesaplayıcı\ganohesaplayıcı\obj\Debug\ganohesaplayıcı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muharrem\source\repos\yaptıklarım\ganohesaplayıcı\ganohesaplayıcı\obj\Debug\ganohesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\Muharrem\source\repos\yaptıklarım\ganohesaplayıcı\ganohesaplayıcı\obj\Debug\ganohesaplayıcı.exe
+C:\Users\Muharrem\source\repos\yaptıklarım\ganohesaplayıcı\ganohesaplayıcı\obj\Debug\ganohesaplayıcı.pdb
