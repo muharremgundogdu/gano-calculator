@@ -10,8 +10,11 @@ namespace ganohesaplayıcı
     {
         static void Main(string[] args)
         {
-            // -- GANO HESAPLAYICI !!!--
+            // -- GANO HESAPLAYICI --
             
+            baslangic:
+            Console.Clear();
+
             Console.Write("Ders sayisini girin: ");
             int derssayisi = Convert.ToInt32(Console.ReadLine());
             string[] dersler=new string[derssayisi];
@@ -56,7 +59,20 @@ namespace ganohesaplayıcı
                 toplam += (harfnotu[i] * kredi[i]);
             gano = toplam / kreditoplam;
             Console.Write("\n\n     Ganonuz: {0}", gano);
- 
+
+            Console.WriteLine("\n\nCikmak icin ESC tusuna basin, tekradan hesaplamak icin ENTER tusuna basin: ");
+        tekrar:
+            ConsoleKeyInfo key = Console.ReadKey();
+            if (key.Key == ConsoleKey.Escape)
+                Environment.Exit(0);
+            else if (key.Key == ConsoleKey.Enter)
+                goto baslangic;
+            else
+            {
+                Console.WriteLine("\nHatali tus girdiniz! Cikmak icin ESC tusuna, tekrardan hesaplamak icin ENTER tusuna basin: ");
+                goto tekrar;
+            }
+            
             Console.ReadKey();
         }
     }
